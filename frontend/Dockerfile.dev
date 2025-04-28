@@ -1,0 +1,16 @@
+FROM oven/bun:1.2.5 AS dev
+
+WORKDIR /usr/src/app
+
+COPY package.json bun.lockb ./
+
+RUN bun install --frozen-lockfile
+
+COPY . .
+
+EXPOSE 3000 3333
+
+ENV NODE_ENV=development
+ENV DOCKER_DEV=true
+
+CMD ["bun", "--bun", "run", "dev"]

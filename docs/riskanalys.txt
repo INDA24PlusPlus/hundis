@@ -1,0 +1,60 @@
+Jail failar
+5		2				10
+
+XSS (tillgång till databas) / injection
+3		2				6
+
+Vi råkar göra repot public
+2		2				4
+
+Allmän arbetsmiljöproblem
+1		4
+
+Kattis stämmer oss
+4.5		2				9
+
+Kattis deltidsanställer någon
+3		3				9
+
+KTHCloud funkar inte :(
+3		1.5				4.5
+
+KTHCloud ballar ur -----> GleSys
+2		2				4
+
+Vi skriver buggar
+1		5				5
+
+Hets mot folkgrupp (någon laddar upp ett ifrågasättbart statement)
+3		2.5				7.5
+
+Dålig loading time
+4		1.5				6
+
+Vi väljer att byta från go en vecka innan deadline
+3		4				12
+
+
+
+1. Språkbyte
+	"Nej, Liam. Inte byta språk"
+2. Jail-fail
+	Bäst alternativ. Extensive testning.
+3. Kattis stämmer oss
+	Snacka med Fredrik, worst case sälja kattis.gratis.
+4. Kattis anställer någon
+	Oj, hoppsan. Woopsies.
+5. Hets mot folkgrupp
+	Någon check/granskning/flaggning inbyggd.
+6. Dålig loading time
+	Hitta flaskhalsar, fixa flaskhalsar.
+7. XSS
+	Låta Liam fixa det här. Brorsan gör Web-säkerhet
+8. Vi skriver buggar
+	Skriv inte buggar. Lite lokal testning, kanske lite code-review. Neeee, det heter features nu.
+9. KTHCloud funkar inte
+	Vi kan byta, men honestly inget annat.
+10. Vi råkar göra repot public
+	Var försiktig.
+11. KTHCloud ballar ur ---> GleSys
+	tough luck.
